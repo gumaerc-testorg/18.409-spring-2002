@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture 7 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf
+file: /media/courses/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect7.pdf
 uid: be1c965e-61f2-8e24-95c7-6c8fe1e89922
