@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0d8bbad4-70eb-1815-d276-9f6f831dcd19
 resourcetype: Other
 title: eppstein.mat
 uid: 26055abc-f9f7-6605-55b0-d85bf02c9cea

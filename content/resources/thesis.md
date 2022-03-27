@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fbeb512-b685-9fde-6a1a-770a3485e5d4
 resourcetype: Document
 title: thesis.pdf
 uid: a0e6e5b0-4a13-dae4-38e5-d7a2dd586b45

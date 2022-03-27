@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0d8bbad4-70eb-1815-d276-9f6f831dcd19
 resourcetype: Other
 title: chew_circle.mat
 uid: 5f5d7fc4-fe27-311c-3f1a-5553e39c9eef

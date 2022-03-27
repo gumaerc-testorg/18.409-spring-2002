@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7fbeb512-b685-9fde-6a1a-770a3485e5d4
 resourcetype: Document
 title: epelman98cond.pdf
 uid: 0a7eb9c5-ccb0-7723-a9c1-cfb71af07bf7

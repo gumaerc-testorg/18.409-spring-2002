@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0d8bbad4-70eb-1815-d276-9f6f831dcd19
 resourcetype: Other
 title: ppDat.mat
 uid: 9cb5ca0f-11e2-47c9-60c5-56eb649b0c14

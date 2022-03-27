@@ -69,7 +69,7 @@ airfoil2.mat ([MAT]({{< baseurl >}}/resources/airfoil2))
 Gaussian Elimination Without Pivoting
 {{< tdclose >}}
 {{< tdopen >}}
-art.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/art.m))
+art.m ([M]({{< baseurl >}}/resources/art))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ art.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/
 Smoothed Analysis of Gaussian Elimination Without Pivoting
 {{< tdclose >}}
 {{< tdopen >}}
-art3.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/art3.m))
+art3.m ([M]({{< baseurl >}}/resources/art3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Speeding up GE of Graphs with Low Bandwidth or Small Separators
 
 chew\_circle.mat ([MAT]({{< baseurl >}}/resources/chew_circle))
 
-convert.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/convert.m))
+convert.m ([M]({{< baseurl >}}/resources/convert))
 
 
 {{< tdclose >}}
@@ -117,7 +117,7 @@ convert.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/to
 Spectral Partitioning Introduced
 {{< tdclose >}}
 {{< tdopen >}}
-crossedGrid.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/crossedGrid.m))
+crossedGrid.m ([M]({{< baseurl >}}/resources/crossedgrid))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,9 +173,9 @@ McSherry's Spectral Bisection Algorithm
 {{< tdopen >}}
 
 
-fastfiedler.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/fastfiedler.m))
+fastfiedler.m ([M]({{< baseurl >}}/resources/fastfiedler))
 
-gauss.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/gauss.m))
+gauss.m ([M]({{< baseurl >}}/resources/gauss))
 
 
 {{< tdclose >}}
@@ -199,11 +199,11 @@ Duality
 {{< tdopen >}}
 
 
-graph2A.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/graph2A.m))
+graph2A.m ([M]({{< baseurl >}}/resources/graph2a))
 
-kahan.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/kahan.m))
+kahan.m ([M]({{< baseurl >}}/resources/kahan))
 
-kahan2.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/kahan2.m))
+kahan2.m ([M]({{< baseurl >}}/resources/kahan2))
 
 
 {{< tdclose >}}
@@ -225,7 +225,7 @@ Renegar's Condition Numbers
 {{< tdopen >}}
 
 
-laplacian.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/laplacian.m))
+laplacian.m ([M]({{< baseurl >}}/resources/laplacian))
 
 mcrack.mat ([MAT]({{< baseurl >}}/resources/mcrack))
 
@@ -253,7 +253,7 @@ n.mat ([MAT]({{< baseurl >}}/resources/n))
 Worst-Case Complexity of the Implex Method
 {{< tdclose >}}
 {{< tdopen >}}
-noPivot.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/noPivot.m))
+noPivot.m ([M]({{< baseurl >}}/resources/nopivot))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +265,7 @@ noPivot.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/to
 The Expected Number of Facets of the Convex Hull of Gaussian Random Points in the Plane
 {{< tdclose >}}
 {{< tdopen >}}
-ppConj.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/ppConj.m))
+ppConj.m ([M]({{< baseurl >}}/resources/ppconj))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +289,7 @@ ppDat.mat ([MAT]({{< baseurl >}}/resources/ppdat))
 The Expected Number of Facets of the Shadow of a polytope Given by Gaussian random Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-spectShow.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/spectShow.m))
+spectShow.m ([M]({{< baseurl >}}/resources/spectshow))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +301,7 @@ spectShow.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/
 The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Distance Bound
 {{< tdclose >}}
 {{< tdopen >}}
-spectShow1.m ([M](/courses/mathematics/18-409-behavior-of-algorithms-spring-2002/tools/spectShow1.m))
+spectShow1.m ([M]({{< baseurl >}}/resources/spectshow1))
 {{< tdclose >}}
 
 {{< trclose >}}

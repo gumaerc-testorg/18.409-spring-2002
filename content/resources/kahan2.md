@@ -1,10 +1,10 @@
 ---
 content_type: resource
-description: Code file in support of Lecture 8.  This code was presented by the professor
+description: Code file in support of Lecture 11.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /media/courses/18-409-behavior-of-algorithms-spring-2002/efe0be5d09d65d8e34e2ef30981e6f40_dat.mat
-file_type: application/octet-stream
+file: /media/courses/18-409-behavior-of-algorithms-spring-2002/0838e7358f3a2d056e9ff86007a4b5f3_kahan2.m
+file_type: text/plain
 learning_resource_types:
 - Tools
 ocw_type: OCWFile
@@ -12,6 +12,6 @@ parent_title: Tools
 parent_type: CourseSection
 parent_uid: 0d8bbad4-70eb-1815-d276-9f6f831dcd19
 resourcetype: Other
-title: dat.mat
-uid: efe0be5d-09d6-5d8e-34e2-ef30981e6f40
+title: kahan2.m
+uid: 0838e735-8f3a-2d05-6e9f-f86007a4b5f3
 ---
