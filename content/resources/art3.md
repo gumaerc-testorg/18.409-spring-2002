@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 5.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /media/courses/18-409-behavior-of-algorithms-spring-2002/0dcd8a1a580f53c55227830b09960fb5_art3.m
+file: /courses/18-409-behavior-of-algorithms-spring-2002/0dcd8a1a580f53c55227830b09960fb5_art3.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -15,3 +15,5 @@ resourcetype: Other
 title: art3.m
 uid: 0dcd8a1a-580f-53c5-5227-830b09960fb5
 ---
+Code file in support of Lecture 5.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
+

@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 10.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /media/courses/18-409-behavior-of-algorithms-spring-2002/0736c0355510c853027393d1703a4fa5_gauss.m
+file: /courses/18-409-behavior-of-algorithms-spring-2002/0736c0355510c853027393d1703a4fa5_gauss.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -15,3 +15,5 @@ resourcetype: Other
 title: gauss.m
 uid: 0736c035-5510-c853-0273-93d1703a4fa5
 ---
+Code file in support of Lecture 10.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
+

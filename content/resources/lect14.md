@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 14 notes.
-file: /media/courses/18-409-behavior-of-algorithms-spring-2002/ffe47e240bf615107dc8b50b2ecfb634_lect14.pdf
+file: /courses/18-409-behavior-of-algorithms-spring-2002/ffe47e240bf615107dc8b50b2ecfb634_lect14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 3f6a47ea-74a7-53d2-524b-325889a3e5b5
 resourcetype: Document
 title: lect14.pdf
 uid: ffe47e24-0bf6-1510-7dc8-b50b2ecfb634
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Lecture 14 notes.
+

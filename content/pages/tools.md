@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
 title: Tools
 uid: 0d8bbad4-70eb-1815-d276-9f6f831dcd19
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
@@ -33,7 +38,7 @@ TOOLS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-EppBAP.mat ([MAT]({{< baseurl >}}/resources/eppbap))
+EppBAP.mat ({{% resource_link f67e7d67-c7e8-dea4-7a8e-5da5eab6c496 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ EppBAP.mat ([MAT]({{< baseurl >}}/resources/eppbap))
 The Condition Number
 {{< tdclose >}}
 {{< tdopen >}}
-airfoil1.mat ([MAT]({{< baseurl >}}/resources/airfoil1))
+airfoil1.mat ({{% resource_link 7f5be39c-7964-d81d-c359-37a2c70eab4c "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ airfoil1.mat ([MAT]({{< baseurl >}}/resources/airfoil1))
 The Largest Singular Value of a Matrix
 {{< tdclose >}}
 {{< tdopen >}}
-airfoil2.mat ([MAT]({{< baseurl >}}/resources/airfoil2))
+airfoil2.mat ({{% resource_link d7796cdd-8cbc-940b-a22a-57051a916fab "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ airfoil2.mat ([MAT]({{< baseurl >}}/resources/airfoil2))
 Gaussian Elimination Without Pivoting
 {{< tdclose >}}
 {{< tdopen >}}
-art.m ([M]({{< baseurl >}}/resources/art))
+art.m ({{% resource_link 14f16e06-356f-e6e9-933a-9817fb49d38a "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +86,7 @@ art.m ([M]({{< baseurl >}}/resources/art))
 Smoothed Analysis of Gaussian Elimination Without Pivoting
 {{< tdclose >}}
 {{< tdopen >}}
-art3.m ([M]({{< baseurl >}}/resources/art3))
+art3.m ({{% resource_link 0dcd8a1a-580f-53c5-5227-830b09960fb5 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +106,9 @@ Speeding up GE of Graphs with Low Bandwidth or Small Separators
 {{< tdopen >}}
 
 
-chew\_circle.mat ([MAT]({{< baseurl >}}/resources/chew_circle))
+chew\_circle.mat ({{% resource_link 5f5d7fc4-fe27-311c-3f1a-5553e39c9eef "MAT" %}})
 
-convert.m ([M]({{< baseurl >}}/resources/convert))
+convert.m ({{% resource_link 5a763ad7-2653-967e-b8fb-f0df086906f9 "M" %}})
 
 
 {{< tdclose >}}
@@ -117,7 +122,7 @@ convert.m ([M]({{< baseurl >}}/resources/convert))
 Spectral Partitioning Introduced
 {{< tdclose >}}
 {{< tdopen >}}
-crossedGrid.m ([M]({{< baseurl >}}/resources/crossedgrid))
+crossedGrid.m ({{% resource_link 017e1b8c-3e56-d2a7-6ba9-b8a399db5d94 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +134,7 @@ crossedGrid.m ([M]({{< baseurl >}}/resources/crossedgrid))
 Spectral Partitioning of Planar Graphs
 {{< tdclose >}}
 {{< tdopen >}}
-dat.mat ([MAT]({{< baseurl >}}/resources/dat))
+dat.mat ({{% resource_link efe0be5d-09d6-5d8e-34e2-ef30981e6f40 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,9 +154,9 @@ Turner's Theorem for Bandwidth of Semi-Random Graphs
 {{< tdopen >}}
 
 
-epp.mat ([MAT]({{< baseurl >}}/resources/epp))
+epp.mat ({{% resource_link 04a81cbf-b53e-cf2c-cbf9-49291f2e4e52 "MAT" %}})
 
-eppstein.mat ([MAT]({{< baseurl >}}/resources/eppstein))
+eppstein.mat ({{% resource_link 26055abc-f9f7-6605-55b0-d85bf02c9cea "MAT" %}})
 
 
 {{< tdclose >}}
@@ -173,9 +178,9 @@ McSherry's Spectral Bisection Algorithm
 {{< tdopen >}}
 
 
-fastfiedler.m ([M]({{< baseurl >}}/resources/fastfiedler))
+fastfiedler.m ({{% resource_link 12cc7004-534f-fe42-cc79-3db5eae8cd53 "M" %}})
 
-gauss.m ([M]({{< baseurl >}}/resources/gauss))
+gauss.m ({{% resource_link 0736c035-5510-c853-0273-93d1703a4fa5 "M" %}})
 
 
 {{< tdclose >}}
@@ -199,11 +204,11 @@ Duality
 {{< tdopen >}}
 
 
-graph2A.m ([M]({{< baseurl >}}/resources/graph2a))
+graph2A.m ({{% resource_link 45d553d5-15f6-cc81-691b-df009093e37f "M" %}})
 
-kahan.m ([M]({{< baseurl >}}/resources/kahan))
+kahan.m ({{% resource_link 0f51881c-7aef-eeba-1e21-65b146912dbf "M" %}})
 
-kahan2.m ([M]({{< baseurl >}}/resources/kahan2))
+kahan2.m ({{% resource_link 0838e735-8f3a-2d05-6e9f-f86007a4b5f3 "M" %}})
 
 
 {{< tdclose >}}
@@ -225,9 +230,9 @@ Renegar's Condition Numbers
 {{< tdopen >}}
 
 
-laplacian.m ([M]({{< baseurl >}}/resources/laplacian))
+laplacian.m ({{% resource_link 0eef9771-75fa-2ac6-a649-8e7472d3054a "M" %}})
 
-mcrack.mat ([MAT]({{< baseurl >}}/resources/mcrack))
+mcrack.mat ({{% resource_link bffa6860-1f07-63a4-d49d-edf13cafa004 "MAT" %}})
 
 
 {{< tdclose >}}
@@ -241,7 +246,7 @@ mcrack.mat ([MAT]({{< baseurl >}}/resources/mcrack))
 Analysis of von Neumann's Algorithm
 {{< tdclose >}}
 {{< tdopen >}}
-n.mat ([MAT]({{< baseurl >}}/resources/n))
+n.mat ({{% resource_link f1167179-4cdb-c1d9-9681-e3723a894731 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +258,7 @@ n.mat ([MAT]({{< baseurl >}}/resources/n))
 Worst-Case Complexity of the Implex Method
 {{< tdclose >}}
 {{< tdopen >}}
-noPivot.m ([M]({{< baseurl >}}/resources/nopivot))
+noPivot.m ({{% resource_link e91ff820-34dd-358b-870c-a2974a09cc02 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +270,7 @@ noPivot.m ([M]({{< baseurl >}}/resources/nopivot))
 The Expected Number of Facets of the Convex Hull of Gaussian Random Points in the Plane
 {{< tdclose >}}
 {{< tdopen >}}
-ppConj.m ([M]({{< baseurl >}}/resources/ppconj))
+ppConj.m ({{% resource_link e34aeabe-1327-7019-1fba-c7567615f005 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +282,7 @@ ppConj.m ([M]({{< baseurl >}}/resources/ppconj))
 The Expected Number of Facets of the Convex Hull of Gaussian Random Points in the Plane (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-ppDat.mat ([MAT]({{< baseurl >}}/resources/ppdat))
+ppDat.mat ({{% resource_link 9cb5ca0f-11e2-47c9-60c5-56eb649b0c14 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +294,7 @@ ppDat.mat ([MAT]({{< baseurl >}}/resources/ppdat))
 The Expected Number of Facets of the Shadow of a polytope Given by Gaussian random Constraints
 {{< tdclose >}}
 {{< tdopen >}}
-spectShow.m ([M]({{< baseurl >}}/resources/spectshow))
+spectShow.m ({{% resource_link e08db447-8044-bd8a-db20-de19cd5f71f8 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +306,7 @@ spectShow.m ([M]({{< baseurl >}}/resources/spectshow))
 The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Distance Bound
 {{< tdclose >}}
 {{< tdopen >}}
-spectShow1.m ([M]({{< baseurl >}}/resources/spectshow1))
+spectShow1.m ({{% resource_link f818079f-b7a4-1a45-3f67-b9c4cc3e70e5 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +318,7 @@ spectShow1.m ([M]({{< baseurl >}}/resources/spectshow1))
 The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Angle Bound and Overview of Phase 1
 {{< tdclose >}}
 {{< tdopen >}}
-v4.mat ([MAT]({{< baseurl >}}/resources/v4))
+v4.mat ({{% resource_link f8519711-54b6-8f1c-3401-082dbf695346 "MAT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

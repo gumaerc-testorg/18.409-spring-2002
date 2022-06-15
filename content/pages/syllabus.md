@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 5fc33b85-d832-327f-8011-2d5d8233af47
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -22,7 +27,7 @@ My lectures will center around the following three approaches.
 
 ### Smoothed Analysis
 
-Analyzing algorithms assuming their inputs are subject to noise. That is, we measure the maximum over inputs of the expected performance of an algorithm under slight random perturbations of those inputs. This is the intersection of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Shannon Theory (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf) with Analysis of Algorithms by assuming inputs come through a noisy channel.
+Analyzing algorithms assuming their inputs are subject to noise. That is, we measure the maximum over inputs of the expected performance of an algorithm under slight random perturbations of those inputs. This is the intersection of [Shannon Theory (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf) with Analysis of Algorithms by assuming inputs come through a noisy channel.
 
 ### Condition Numbers/Parametric Analysis
 

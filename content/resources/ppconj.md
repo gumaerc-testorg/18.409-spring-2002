@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 15.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /media/courses/18-409-behavior-of-algorithms-spring-2002/e34aeabe132770191fbac7567615f005_ppConj.m
+file: /courses/18-409-behavior-of-algorithms-spring-2002/e34aeabe132770191fbac7567615f005_ppConj.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -15,3 +15,5 @@ resourcetype: Other
 title: ppConj.m
 uid: e34aeabe-1327-7019-1fba-c7567615f005
 ---
+Code file in support of Lecture 15.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
+
