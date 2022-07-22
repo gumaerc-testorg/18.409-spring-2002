@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7fbeb512-b685-9fde-6a1a-770a3485e5d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -46,7 +54,7 @@ Demmel, James W. "The Probability that a Numerical Analysis Problem is Difficult
 
 Edelman, Alan. "Eigenvalues and Condition Numbers of Random Matrices." _SIAM J. Matrix Anal. Appl_ 9, no. 4 (1988): 543-560.
 
-Edelman, A. "Eigenvalues and Condition Numbers of Random Matrices." 1989. Ph.D. Thesis. ([PDF - 1.3 MB]({{< baseurl >}}/resources/thesis))
+Edelman, A. "Eigenvalues and Condition Numbers of Random Matrices." 1989. Ph.D. Thesis. ({{% resource_link a0e6e5b0-4a13-dae4-38e5-d7a2dd586b45 "PDF - 1.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -230,7 +238,7 @@ Duality
 
 {{< tdclose >}}
 {{< tdopen >}}
-Epelman, Marina, and Rob Freund. "Condition Number Complexity of an Elementary Algorithm for Resolving a Conic Linear System." ([PDF]({{< baseurl >}}/resources/epelman98cond)) (Courtesy of Marina Epelman and other students from Behavior of Algorithms. Used with permission.)
+Epelman, Marina, and Rob Freund. "Condition Number Complexity of an Elementary Algorithm for Resolving a Conic Linear System." ({{% resource_link 0a7eb9c5-ccb0-7723-a9c1-cfb71af07bf7 "PDF" %}}) (Courtesy of Marina Epelman and other students from Behavior of Algorithms. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +270,7 @@ Analysis of von Neumann's Algorithm
 {{< tdopen >}}
 
 
-Epelman, Marina, and Rob Freund. "Condition Number Complexity of an Elementary Algorithm for Resolving a Conic Linear System." ([PDF]({{< baseurl >}}/resources/epelman98cond)) (Courtesy of Marina Epelman and other students from Behavior of Algorithms. Used with permission.)
+Epelman, Marina, and Rob Freund. "Condition Number Complexity of an Elementary Algorithm for Resolving a Conic Linear System." ({{% resource_link 0a7eb9c5-ccb0-7723-a9c1-cfb71af07bf7 "PDF" %}}) (Courtesy of Marina Epelman and other students from Behavior of Algorithms. Used with permission.)
 
 Dunagan, John D, Daniel A. Spielman, and Shang-Hua Teng. "[Smoothed Analysis of Renegar's Condition Number for Linear Programming](http://citeseer.ist.psu.edu/690671.html)."
 
