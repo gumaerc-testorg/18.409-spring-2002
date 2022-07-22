@@ -7,6 +7,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/e08db4478044bd8adb20de1
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: spectShow.m
 uid: e08db447-8044-bd8a-db20-de19cd5f71f8
 ---
 Code file in support of Lecture 17.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
-

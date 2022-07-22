@@ -7,6 +7,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/45d553d515f6cc81691bdf0
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: graph2A.m
 uid: 45d553d5-15f6-cc81-691b-df009093e37f
 ---
 Code file in support of Lecture 11.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
-

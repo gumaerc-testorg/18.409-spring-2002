@@ -5,6 +5,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/a0e6e5b04a13dae438e5d7a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Doctoral thesis authored by Alan Edelman.
-

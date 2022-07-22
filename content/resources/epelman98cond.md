@@ -6,6 +6,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/0a7eb9c5ccb07723a9c1cfb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Research paper authored by Marina Epelman and Robert M. Freund, M.I.T., December, 1998.
-

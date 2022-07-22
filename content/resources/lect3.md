@@ -5,6 +5,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/4b1bb3845bb89df1cc873d2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture 3 notes.
-

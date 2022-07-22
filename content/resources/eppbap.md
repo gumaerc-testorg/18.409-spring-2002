@@ -7,6 +7,7 @@ file: /courses/18-409-behavior-of-algorithms-spring-2002/f67e7d67c7e8dea47a8e5da
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Code file in support of Lecture 1.  This code was presented by the professor in order to facilitate the learning process and assist in the better understanding of the course material.
-
