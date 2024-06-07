@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 10 notes.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/3c9dffc9f176f1e7fbc40ae6d7d05427_lect10.pdf
+file_size: 153340
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

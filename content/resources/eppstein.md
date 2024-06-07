@@ -4,6 +4,7 @@ description: Code file in support of Lecture 9.  This code was presented by the 
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/26055abcf9f7660555b0d85bf02c9cea_eppstein.mat
+file_size: 97124
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
