@@ -3,6 +3,7 @@ content_type: resource
 description: Research paper authored by Marina Epelman and Robert M. Freund, M.I.T.,
   December, 1998.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/0a7eb9c5ccb07723a9c1cfb71af07bf7_epelman98cond.pdf
+file_size: 426529
 file_type: application/pdf
 learning_resource_types:
 - Readings

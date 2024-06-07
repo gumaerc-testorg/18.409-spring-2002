@@ -4,6 +4,7 @@ description: Code file in support of Lecture 15.  This code was presented by the
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/e34aeabe132770191fbac7567615f005_ppConj.m
+file_size: 182
 file_type: text/plain
 learning_resource_types:
 - Tools

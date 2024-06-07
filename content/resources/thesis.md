@@ -2,6 +2,7 @@
 content_type: resource
 description: Doctoral thesis authored by Alan Edelman.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/a0e6e5b04a13dae438e5d7a2dd586b45_thesis.pdf
+file_size: 1376724
 file_type: application/pdf
 learning_resource_types:
 - Readings
