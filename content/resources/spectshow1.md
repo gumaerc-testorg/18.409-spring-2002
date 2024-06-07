@@ -4,6 +4,7 @@ description: Code file in support of Lecture 18.  This code was presented by the
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/f818079fb7a41a453f67b9c4cc3e70e5_spectShow1.m
+file_size: 985
 file_type: text/plain
 learning_resource_types:
 - Tools

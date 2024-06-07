@@ -4,6 +4,7 @@ description: Code file in support of Lecture 13.  This code was presented by the
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
 file: /courses/18-409-behavior-of-algorithms-spring-2002/f11671794cdbc1d99681e3723a894731_n.mat
+file_size: 540011
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
