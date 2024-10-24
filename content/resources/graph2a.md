@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 11.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /courses/18-409-behavior-of-algorithms-spring-2002/45d553d515f6cc81691bdf009093e37f_graph2A.m
+file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/45d553d515f6cc81691bdf009093e37f_graph2A.m
 file_size: 419
 file_type: text/plain
 learning_resource_types:

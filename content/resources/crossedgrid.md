@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 7.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /courses/18-409-behavior-of-algorithms-spring-2002/017e1b8c3e56d2a76ba9b8a399db5d94_crossedGrid.m
+file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/017e1b8c3e56d2a76ba9b8a399db5d94_crossedGrid.m
 file_size: 1112
 file_type: text/plain
 learning_resource_types:
