@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/591cf2362642093e9f52321493875466_lect9.pdf
+file: /courses/18-409-behavior-of-algorithms-spring-2002/591cf2362642093e9f52321493875466_lect9.pdf
 file_size: 119476
 file_type: application/pdf
 learning_resource_types:
