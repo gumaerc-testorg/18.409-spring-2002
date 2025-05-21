@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 12.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/bffa68601f0763a4d49dedf13cafa004_mcrack.mat
+file: /courses/18-409-behavior-of-algorithms-spring-2002/bffa68601f0763a4d49dedf13cafa004_mcrack.mat
 file_size: 923272
 file_type: application/octet-stream
 learning_resource_types:
