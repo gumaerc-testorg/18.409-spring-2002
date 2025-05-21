@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 15/16 notes (continued).
-file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/763febf920c636482670170b33da22f2_lect16.pdf
+file: /courses/18-409-behavior-of-algorithms-spring-2002/763febf920c636482670170b33da22f2_lect16.pdf
 file_size: 86080
 file_type: application/pdf
 learning_resource_types:

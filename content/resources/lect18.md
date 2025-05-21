@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 18 notes.
-file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/3ab6d7c83f568903517c063b52be01f3_lect18.pdf
+file: /courses/18-409-behavior-of-algorithms-spring-2002/3ab6d7c83f568903517c063b52be01f3_lect18.pdf
 file_size: 138012
 file_type: application/pdf
 learning_resource_types:

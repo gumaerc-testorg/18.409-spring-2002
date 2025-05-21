@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 7 notes.
-file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf
+file: /courses/18-409-behavior-of-algorithms-spring-2002/be1c965e61f28e2495c76c8fe1e89922_lect7.pdf
 file_size: 132895
 file_type: application/pdf
 learning_resource_types:
