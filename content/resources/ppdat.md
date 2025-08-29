@@ -3,7 +3,7 @@ content_type: resource
 description: Code file in support of Lecture 16.  This code was presented by the professor
   in order to facilitate the learning process and assist in the better understanding
   of the course material.
-file: /courses/18-409-behavior-of-algorithms-spring-2002/9cb5ca0f11e247c960c556eb649b0c14_ppDat.mat
+file: /ol-ocw-studio-app/courses/18-409-behavior-of-algorithms-spring-2002/9cb5ca0f11e247c960c556eb649b0c14_ppDat.mat
 file_size: 21656
 file_type: application/octet-stream
 learning_resource_types:
