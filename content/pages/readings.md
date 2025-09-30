@@ -82,7 +82,7 @@ Wilkinson, J. H. "Error Analysis of Direct Methods of Matrix Inversion." *Journa
 
 Turner, Jonathan S. "On the Probable Performance of Heuristics for Bandwidth Minimization." *SIAM Journal on Computing* 15, no. 2 (May 1986).
 
-Feige, Uri, and Robert Krauthgamer. "Smoothed Analysis." In [*Improved Performance Guarantees for Bandwidth Minimization Heuristics*](https://www.researchgate.net/publication/2626577_Improved_Performance_Guarantees_for_Bandwidth_Minimization_Heuristics)." Unpublished manuscript, 1998.
+Feige, Uri, and Robert Krauthgamer. "Smoothed Analysis." In {{% resource_link "5c0e8047-6653-4c88-8c1c-a94f60b3ec1b" "*Improved Performance Guarantees for Bandwidth Minimization Heuristics*" %}}." Unpublished manuscript, 1998.
 
 "Generalized Nested Dissection." *SIAM Journal on Numerical Analysis* 16 (1979): 346-358.
 
@@ -126,7 +126,7 @@ McSherry's Spectral Bisection Algorithm
 
 Feige, Uri, and Joe Kilian. "Heuristics for Semirandom Graph Problems." *Journal of Computer and System Sciences.*———. "Heuristics for Finding Large Independent Sets, with Applications to Coloring Semi-Random Graphs." Proceedings of 39th FOCS. 1998, pp. 674-683. Available at Uri Feige's homepage.
 
-Feige, Uri, R. Krauthgamer. "Improved Performance Guarantees for Bandwidth Minimization Heuristics." Unpublished manuscript, November 1998. Available at [Robert Krauthgamer's homepage](http://www.wisdom.weizmann.ac.il/~robi/).
+Feige, Uri, R. Krauthgamer. "Improved Performance Guarantees for Bandwidth Minimization Heuristics." Unpublished manuscript, November 1998. Available at {{% resource_link "69980ed9-0157-4ae7-87f9-bc3d600d010e" "Robert Krauthgamer's homepage" %}}.
 
 Boppana, Ravi . "Eigenvalues and Graph Bisection: an Average-Case Analysis." Proceedings of the 28th Annual IEEE Symposium on Foundations of Computer Science, pages 280-285, IEEE Computer Society Press, 1987.
 
@@ -164,7 +164,7 @@ Analysis of von Neumann's Algorithm
 
 Epelman, Marina, and Rob Freund. "Condition Number Complexity of an Elementary Algorithm for Resolving a Conic Linear System." ({{% resource_link "0a7eb9c5-ccb0-7723-a9c1-cfb71af07bf7" "PDF" %}}) (Courtesy of Marina Epelman and other students from Behavior of Algorithms. Used with permission.)
 
-Dunagan, John D, Daniel A. Spielman, and Shang-Hua Teng. "[Smoothed Analysis of Renegar's Condition Number for Linear Programming](https://www.researchgate.net/publication/229747604_Smoothed_analysis_of_some_condition_numbers)."
+Dunagan, John D, Daniel A. Spielman, and Shang-Hua Teng. "{{% resource_link "1ec1a0c1-4b20-409c-9e8e-465224ed9e26" "Smoothed Analysis of Renegar's Condition Number for Linear Programming" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -193,7 +193,7 @@ Uber die convexe hulle von is zufallig gewahlten punkten, I and II. Z. Whar. 2, 
 {{< tdclose >}}{{< tdopen >}}
 The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints
 {{< tdclose >}}{{< tdopen >}}
-Spielman, Daniel A, Shang-Hua Teng. "[Smoothed Analysis: Why The Simplex Algorithm Usually Takes Polynomial Time](http://math.mit.edu/seminars/combin/archive/abstracts/apr01/spielman.html)."
+Spielman, Daniel A, Shang-Hua Teng. "{{% resource_link "33a9c9f7-747b-4207-b674-abb25c20aa94" "Smoothed Analysis: Why The Simplex Algorithm Usually Takes Polynomial Time" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
